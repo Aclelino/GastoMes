@@ -1,20 +1,19 @@
-# Cadastro de Contas mensal #
+## Cadastro de Contas mensal 
 
-    App para cadastro de contas mensal
-    com banco de dados em CRUD
+   * [App](https://github.com/Aclelino/GastoMes/edit/main/README.md#forma-simples-de-cadasto-de-contas)
+   * INSTALAÇÃO
+   * [AUTOR](https://github.com/Aclelino/GastoMes/edit/main/README.md#autor)
+   * CONTATOS
 
-## Forma simples de cadasto de contas ##
+## APP TELA ##
 
 ![Captura de tela de 2023-05-22 20-12-13](https://github.com/Aclelino/GastoMes/assets/13538814/d75e7a33-98ad-4e98-9843-29c8255ed045)
 
-## INSTALAÇÃO
+# INSTALAÇÃO
 
-Copie o codigo a baixo 
+Copie o codigo a baixo e cole no terminal git 
 
-git clone https://github.com/Aclelino/GastoMes.git
-
-e cole no terminal
-
+    git clone https://github.com/Aclelino/GastoMes.git
 
 # AUTOR
 
@@ -23,6 +22,7 @@ e cole no terminal
 ## CONTATOS
 
     E-mail:  aclelino@gmail.com
+    
     Linkedin: https://www.linkedin.com/in/aclelino/
 
 
