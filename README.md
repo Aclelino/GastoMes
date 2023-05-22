@@ -1,5 +1,7 @@
-# Cadastro de Contas mensal
-
+# Cadastro de Contas mensal 
+    app para cadastro de contas mensal
+    com banco de dados em CRUD
+    
 ## Forma simples de cadasto de contas ##
 
 
